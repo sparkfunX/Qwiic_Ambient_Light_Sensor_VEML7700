@@ -3,7 +3,7 @@ SparkX Ambient Light Sensor - VEML7700 (Qwiic)
 
 [![SparkX Ambient Light Sensor - VEML7700 (Qwiic) (SPX-18981)]()](https://www.sparkfun.com/products/18981)
 
-[*SparkX Ambient Light Sensor - VEML7700 (Qwiic) (SEN-18981)*](https://www.sparkfun.com/products/18981)
+[*SparkX Ambient Light Sensor - VEML7700 (Qwiic) (SPX-18981)*](https://www.sparkfun.com/products/18981)
 
 The VEML7700 is a high accuracy, 16-bit resolution, digital ambient light sensor in a miniature transparent 6.8 mm x 3.0 mm x 2.5 mm package.
 It includes a high sensitivity photodiode, a low noise amplifier, a 16-bit A/D converter and supports an easy to use I<sup>2</sup>C bus communication interface.
@@ -35,7 +35,7 @@ Documentation
 Product Versions
 ----------------
 
-* [SPX-18981](https://www.sparkfun.com/products/17729) - Original SparkX Release.
+* [SPX-18981](https://www.sparkfun.com/products/18981) - Original SparkX Release.
 
 License Information
 -------------------
