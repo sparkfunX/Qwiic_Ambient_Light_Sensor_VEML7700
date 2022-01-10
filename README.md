@@ -1,7 +1,7 @@
 SparkX Ambient Light Sensor - VEML7700 (Qwiic)
 ========================================
 
-[![SparkX Ambient Light Sensor - VEML7700 (Qwiic) (SPX-18981)]()](https://www.sparkfun.com/products/18981)
+[![SparkX Ambient Light Sensor - VEML7700 (Qwiic) (SPX-18981)](https://cdn.sparkfun.com//assets/parts/1/8/5/5/5/18981-Ambient_Light_Sensor_-_VEML7700__Qwiic_-01.jpg)](https://www.sparkfun.com/products/18981)
 
 [*SparkX Ambient Light Sensor - VEML7700 (Qwiic) (SPX-18981)*](https://www.sparkfun.com/products/18981)
 
